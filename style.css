@@ -99,7 +99,7 @@ main {
   text-decoration: none;
 }
 .ListaLink:hover {
-  background: white;
+  background: rgb(96, 240, 185);
   color: black;
 }
 .ListaTitlu,
